@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devdan94
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me devdan9994@gmail.com, 
 
