@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @devdan94
+- 👋 Hi, I’m Daniel Johnson
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🤖 Automations | Workflow Architechture
 - 📫 How to reach me devdan9994@gmail.com, 
 
 <!---
